@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class HelloWorld {
 
     public static void main(String[] args) {
-
+		System.out.println("Start the program")
         // Creates a reader instance which takes
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
